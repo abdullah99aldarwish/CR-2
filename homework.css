@@ -1,0 +1,10 @@
+.h {
+    color: blanchedalmond;
+    background-color: brown;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
